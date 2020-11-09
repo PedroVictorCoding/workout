@@ -1,0 +1,4 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "/home/pedro/Dev/workout/venv/bin/python3.8"
+}
